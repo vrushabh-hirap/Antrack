@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18870595400",
+    "project_id": "antrack-fc1d0",
+    "storage_bucket": "antrack-fc1d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18870595400:android:6f8ad5a77bcb4c4c890d7d",
+        "android_client_info": {
+          "package_name": "com.vrushabhhirap.antrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiQAxTM7WSUz6rFFnyW-YS6c7cRDZSof0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
