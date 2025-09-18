@@ -56,4 +56,12 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
+    // Import the Firebase BoM
+    implementation(platform("com.google.firebase:firebase-bom:32.7.4")) // Use the latest version
+
+    // Add the Firebase products you want to use
+    // For example, if you're using Firebase Authentication and Firestore:
+    implementation("com.google.firebase:firebase-auth-ktx")
+    implementation("com.google.firebase:firebase-firestore-ktx")
+
 }
